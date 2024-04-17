@@ -58,4 +58,4 @@ update:
   enabled: true
   github:
     identifier: jaegertracing/jaeger
-    strip-prefix: "Release "
+    strip-prefix: "v"

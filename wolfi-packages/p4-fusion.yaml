@@ -89,4 +89,4 @@ update:
   enabled: true
   github:
     identifier: salesforce/p4-fusion
-    strip-prefix: "p4-fusion v"
+    strip-prefix: "v"
