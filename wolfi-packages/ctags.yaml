@@ -52,4 +52,4 @@ update:
   enabled: true
   github:
     identifier: universal-ctags/ctags
-    strip-prefix: "Universal Ctags "
+    strip-prefix: "v"
