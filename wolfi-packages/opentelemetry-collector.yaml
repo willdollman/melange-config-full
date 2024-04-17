@@ -50,4 +50,4 @@ update:
   enabled: true
   github:
     identifier: open-telemetry/opentelemetry-collector
-    strip-prefix: "v"
+    strip-prefix: "cmd/builder/v"
